@@ -1,5 +1,4 @@
-# Sistem-Pakar-HIV-AIDS
-Web-Based Expert System for Early HIV/AIDS Diagnosis using Forward Chaining.
+
 # Sistem Pakar Diagnosis Awal HIV/AIDS
 
 Sistem pakar berbasis web untuk membantu diagnosis awal HIV/AIDS menggunakan metode **Forward Chaining**, dikembangkan sebagai bagian dari Tugas Akhir/Skripsi untuk **Kios Atma Jaya**.
@@ -69,5 +68,5 @@ Sistem ini dibangun untuk membantu memberikan **diagnosis awal** berdasarkan gej
 
 ## 👤 Kontak
 
-Nama - [emailkamu@example.com](mailto:emailkamu@example.com)  
+Nama - [Septianykurnia@gmail.com)  
 GitHub: [@Septy02](https://github.com/Septy02)
